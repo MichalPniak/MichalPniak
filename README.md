@@ -1,4 +1,4 @@
-# Hi there 👋
+Trying to make the world a better place for developers. 🐋
 
 <!-- Check my [portfolio](https://michalpniak.github.io/). -->
 
